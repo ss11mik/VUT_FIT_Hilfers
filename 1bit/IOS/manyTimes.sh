@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# manyTimes.sh
+# Vytvořil 06/05/20 Ondřej Mikula
+
 trap "wasInt=1" INT
 wasInt=0
 
