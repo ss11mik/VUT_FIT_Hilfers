@@ -1,2 +1,2 @@
-# VUT_FIT_Hilfers
+# VUT FIT Hilfers
 Sbírka skriptů kontrolujících výstupy projektů.
